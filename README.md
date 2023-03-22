@@ -1,6 +1,3 @@
-<!--
-**m-abeer-akbar/m-abeer-akbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2 align="center">Welcome! 👋</h2>
 
 ###
@@ -19,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning and developing new skills to learn more about different coding languages and working on different projects related to web design and development.<br>🎯 Goals: Aspiring web developer </br> <br> 📫 Email: abeerakbar27:gmail.com </br></p>
+<p align="left">📚 I'm currently learning and developing new skills to learn more about different coding languages and working on different projects related to web design and development.<br>🎯 Goals: Aspiring web developer</p>
 
 ###
 
@@ -36,6 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/m/m/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
